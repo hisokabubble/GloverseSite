@@ -1,2 +1,0 @@
-# GloverseSite
-Website for glovers
